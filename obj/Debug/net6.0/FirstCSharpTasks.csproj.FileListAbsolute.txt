@@ -1,0 +1,15 @@
+/Users/fatimagaykhanova/Projects/FirstCSharpTasks/FirstCSharpTasks/obj/Debug/net6.0/FirstCSharpTasks.csproj.AssemblyReference.cache
+/Users/fatimagaykhanova/Projects/FirstCSharpTasks/FirstCSharpTasks/obj/Debug/net6.0/FirstCSharpTasks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatimagaykhanova/Projects/FirstCSharpTasks/FirstCSharpTasks/obj/Debug/net6.0/FirstCSharpTasks.AssemblyInfoInputs.cache
+/Users/fatimagaykhanova/Projects/FirstCSharpTasks/FirstCSharpTasks/obj/Debug/net6.0/FirstCSharpTasks.AssemblyInfo.cs
+/Users/fatimagaykhanova/Projects/FirstCSharpTasks/FirstCSharpTasks/obj/Debug/net6.0/FirstCSharpTasks.csproj.CoreCompileInputs.cache
+/Users/fatimagaykhanova/Projects/FirstCSharpTasks/FirstCSharpTasks/bin/Debug/net6.0/FirstCSharpTasks
+/Users/fatimagaykhanova/Projects/FirstCSharpTasks/FirstCSharpTasks/bin/Debug/net6.0/FirstCSharpTasks.deps.json
+/Users/fatimagaykhanova/Projects/FirstCSharpTasks/FirstCSharpTasks/bin/Debug/net6.0/FirstCSharpTasks.runtimeconfig.json
+/Users/fatimagaykhanova/Projects/FirstCSharpTasks/FirstCSharpTasks/bin/Debug/net6.0/FirstCSharpTasks.dll
+/Users/fatimagaykhanova/Projects/FirstCSharpTasks/FirstCSharpTasks/bin/Debug/net6.0/FirstCSharpTasks.pdb
+/Users/fatimagaykhanova/Projects/FirstCSharpTasks/FirstCSharpTasks/obj/Debug/net6.0/FirstCSharpTasks.dll
+/Users/fatimagaykhanova/Projects/FirstCSharpTasks/FirstCSharpTasks/obj/Debug/net6.0/refint/FirstCSharpTasks.dll
+/Users/fatimagaykhanova/Projects/FirstCSharpTasks/FirstCSharpTasks/obj/Debug/net6.0/FirstCSharpTasks.pdb
+/Users/fatimagaykhanova/Projects/FirstCSharpTasks/FirstCSharpTasks/obj/Debug/net6.0/FirstCSharpTasks.genruntimeconfig.cache
+/Users/fatimagaykhanova/Projects/FirstCSharpTasks/FirstCSharpTasks/obj/Debug/net6.0/ref/FirstCSharpTasks.dll
